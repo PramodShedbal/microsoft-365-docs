@@ -1,4 +1,4 @@
----
+Uses Outlook Email	Indicates whether the user has sent at least one** meeting** using Outlook in the past 30 days. - As per our internal Wiki https://supportability.visualstudio.com/M365%20Release%20Announcements/_wiki/wikis/M365-Product-Updates.wiki/993471/Outlook-Copilot-Coaching-by-Copilot copilot Not available for Meeting Invites. Kindly edit this article.
 title: "Microsoft 365 admin center Microsoft 365 Copilot usage"
 ms.author: camillepack
 author: camillepack
